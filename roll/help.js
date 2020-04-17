@@ -2,8 +2,8 @@ let rply = {};
 
 function Help() {
 	rply = {
-		"text": "【Discord擲骰BOT】v0.3.4 \
-		 \n  \
+		"text": "【DuckDice頂不住鴨】\
+		 \n 以下指令省略觸發詞 duck 因為源代碼來自HKTRPG擲骰bot \
 		 \n 支援基本擲骰, COC, 永遠的後日談, 黑暗世界, DX3, SW2.0 \
 		 \n 暗骰功能 在指令前打dr 結果會私訊你\
 		 \n 基本擲骰1d100\
